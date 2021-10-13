@@ -1,1 +1,1 @@
-# OS-Project
+# Application Manager for Ubuntu
